@@ -55,19 +55,19 @@ Countries with higher infant mortality rates generally tend to present lower lif
 
 ### Health Analysis Dashboard
 
-![Health Dashboard](images/dashboard-lifeex.png)
+![Health Dashboard](images/Dashboard-lifeex.png)
 
 ---
 
 ### Population Dashboard
 
-![Population Dashboard](images/dashboard-population.png)
+![Population Dashboard](images/Dashboard-population.png)
 
 ---
 
 ## 🔄 Data Model
 
-![Data Model](images/Data-model.png)
+![Data Model](images/Data_model.png)
 
 ---
 
